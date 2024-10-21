@@ -1,0 +1,6 @@
+@ComplexObjectAPI_HostAddress = http://localhost:5244
+
+GET {{ComplexObjectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
